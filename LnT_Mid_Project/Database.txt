@@ -1,0 +1,7 @@
+No#Kode#Nama#JenisKelamin#Jabatan#Gaji#Rank#
+1#AA-5512#Aaron Sebastian#Laki-laki#Supervisor#6000000#4#
+2#QO-9995#Alicia Gabrielle#Perempuan#Supervisor#6450000#2#
+3#LI-5796#Calvin Nicholas#Laki-laki#Supervisor#6450000#3#
+4#NL-2263#Felix Jonathan#Laki-laki#Manager#8000000#1#
+5#YT-8069#Herman Kuding#Laki-laki#Supervisor#6450000#1#
+6#SR-1580#Vincentius#Laki-laki#Admin#4000000#1#
